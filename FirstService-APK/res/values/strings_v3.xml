@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <string name="truger_1">Når vinteren kommer, og snøen laver ned er det kun en ting som vil hjelpe deg. Truger!</string>
+    	<string name="truger_2">Det første du må gjøre er og tilpasse bindingen, ta på deg skoen du skal bruke til trugene. Stram dem så du nesten ikke får dem på da er de stramme nok.</string>
+    	<string name="truger_3">Når de er stramme nok, bruker du teip for og feste dem. Dette er for og forhindre at de hopper av når du bruker dem. Husk at du har venstre og høyre binding. Lukke mekanisen du bruker skal alltid vende ut fra beinet ditt.</string>
+    	<string name="truger_4">Siste du må gjøre er og stramme reimen som holder skoen din på plass. Gjør det samme her som med bindingene, stram og teip. Husk og alltid ta av deg bindingene og ha dem på kropp når du ikke bruker trugene, slik at du ikke mister dem. Du er nå klar for kaste deg ut i snøen.</string>
+    
+    	<string name="hjelp_1"><b>Appen lukker seg av og til</b>
+    	    \n
+    	    \nAppen inneholder mye bilder og informasjon, kildekoden inneholder noen bugs her og der som vi prøver og finne. Men alle er ikke funnet enda, det som skjer er at minne på mobilen din blir for fult. Og når appen prøver og laste inn et nytt bilde eller tekst får den melding fra mobilen at det ikke er plass til mer informasjon. Appen lukker seg da, for og fri gi denne plassen. Når du åpner den igjen er det blitt frigitt plass og ting fungerer igjen.
+    	</string>
+    	
+    	<string name="hjelp_2"><b>Jeg har funnet feil som ikke står her</b>
+    	    \n
+    	    \nSå flott, vi ønsker alltid og få fikset feil og mangler. Send det inn til oss på forslags siden eller på facebook. Vi venter i spenning.
+    	</string>
+    	
+    	<string name="hjelp_3"><b>Appen spør etter Facebook login, hvorfor?</b>
+    	    \n
+    	    \nAppen ønsker og få tilgang til din facebook bruker. Dette for og kunne gjøre den mer personlig. Vi bruker facebook for og få nye tips fra dere. Publiserer dere et tips og er logget på facebook blir dette sendt til siden vår: facebook.com/forstegangstjeneste. Den vil også publisere dimmedagen din hvis du ønsker dette. Og du får tilgang til flere funksjoner dersom du ønsker og logge deg inn.
+    	</string>
+    	
+    	<string name="hgr_1"><b>DM78 - Øvingsgranat</b>
+    	    \n
+			\nFarlig radius: 10 m
+			\nForsinkelse: 4 sek +/- 0,5 sek
+			\nEx: 1,15 g
+			\n
+			\nKommentar: Blå granat for øvelse. Utsende er splintgranat.
+    	    </string>
+    	    
+    	<string name="hgr_2"><b>DM61/DM61A1 - Splintgranat</b>
+			\n
+    		\nFarlig radius: 150 m
+			\nForsinkelse: 4 sek +/- 0,5 sek
+			\nEx: Comp B
+			\n
+			\nKommentar: Har en ekstra sikring som gjør at det skal ta 2 ekstra sekunder før den anntennes. Sprer 3600 splinter som er på 2mm. Det er en forsvarsgranat, man må ha dekning selv før man kaster den! Den kommer i en plastboks med skrukork eller pappboks.
+    	    </string>
+    	    
+    	<string name="hgr_3"><b>HGR85 - Sjokk</b>
+			\n
+			\nFarlig Radius: 75 m 
+			\nForsinkelse: 3 sek +/- 1-2 sek
+			\nEx: 50 g PETN
+			\n
+			\nKommentar: Trekkmotstand 7-17 kg. Brukes som offensiv bruk. Er mørkegrønn m/gul strek. Kommer i Svarte pappbokser. 
+    	    </string>
+    	    
+    	<string name="hgr_4"><b>Røykgranat</b>
+			\n
+			\nFarlig radius: 5 m
+			\nForsinkelse: ca. 1,5 sek
+			\nBrennetid: ca. 60 sek
+			\n
+			\nKommentar: Brukes for å skjule seg selv eller eventuelt markere et sted. Forbudt i lukkede rom og om sommeren på øvelse (skogbrann). Finnes i Hvit, Rød, Grønn, Blå Fiolett.
+    	    </string>
+    	    
+    	<string name="hgr_5"><b>Flashbang</b>
+			\n
+			\nFarlig radius: 5m
+			\nForsinkelse: 1.5 sek +/-
+			\nLydtrykk 1m: ca. 180 db
+			\n
+			\nKommentar: Høyt smell sammen med sterkt lys. Nøytraliserer fiende i noen sekunder. Sjokkeffekt uten skade. Den er Mørk grønn m/gullring. Den kommer med en, to, seks eller ni ladninger (Smell). 
+    	    </string>
+    	    
+    	<string name="hgr_intro"><b>Granater</b>
+			\n
+			\nI Forsvaret brukes det mange forskjellige granater.
+			\n
+			\nDet som er viktig er og vite forskjellen på dem og hva de brukes til. Dette for og kunne opprettholde sikkerhet rundt bruk, og kunne ha en forståelse bak handlingen som fører til bruk av granater.
+			\n
+			\nVi vil her gi en kort presentasjon av de mest vanlige granatene. Og hvordan de fungerer.</string>
+    	    
+</resources>

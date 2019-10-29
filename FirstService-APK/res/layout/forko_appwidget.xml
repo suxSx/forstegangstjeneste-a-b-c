@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:padding="@dimen/widget_margin">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/appwidget_dark_bg">
+
+        
+        <ImageView
+            android:id="@+id/forkoIMGWIG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="#000000"
+            android:contentDescription="@string/image"
+            android:src="@drawable/forkortelser" />
+		
+        <ListView
+            android:id="@+id/list_viewWIG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@android:style/Widget.TextView"
+            android:entries="@array/forko_array" />
+        
+    </LinearLayout>
+    
+</FrameLayout>
+    

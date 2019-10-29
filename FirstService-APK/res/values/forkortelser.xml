@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="forko_array">
+        <item>
+	    1.linje – Angir hva slags bekledning og ustyr man skal ha. 1 = Kun uniform.
+    	</item><item>2.Bn – 2. bataljon
+    	</item><item>2.Linje – Angir hva slags bekledning og ustyr man skal ha. 2 = 1.linje + stridsvest og våpen.
+    	</item><item>3.Linje – Angir hva slags bekledning og ustyr man skal ha. 3 = 2.linje + stridssekk med relevant utstyr for 24 timer (mat, teltduk, ekstra bekledning etc.)
+    	</item><item>4.Linje – Angir hva slags bekledning og ustyr man skal ha. 4 = 3.linje + Utstyr relevant for lengre oppdrag (1 uke) Mer mat, utstyr og bekledning. Pakkes i storsekk.
+    	</item><item>5.linje – Alt utstyr som hver enkelt soldat har fått utdelt.
+    	</item><item>12,7 – Uttales tolvsju og er 12,7 mm mitraljøse.
+	    
+	    </item><item>ABC – ABC-våpen, atom-, biologiske- eller kjemiske våpen (erstattet av ARBC og CBRN).
+   		</item><item>ADSAM – Adskillelse og Sammensetting av våpen
+    	</item><item>AF/ALF – Avløsningsfører
+    	</item><item>AFS – Aktiv feltsikkerhet
+    	</item><item>AG – AG3, automatgevær (nr. 3)
+    	</item><item>AK – Adgangskontroll (også forkortelse for AK-47 og Akershus Komandantskap)
+    	</item><item>AKP – Adgangskontrollpunkt
+    	</item><item>AO – Ansvarsområde
+    	</item><item>APFSDS – Armour piercing fin stabilized discarding sabot (pil ammunisjon)
+    	</item><item>ARBC – Atom-, radiologiske-, biologiske- eller kjemiske våpen (erstattet ABC, erstattet av CBRN)
+    	</item><item>Art – Artilleri
+    	</item><item>ASAP – As soon as possible (så raskt som mulig)
+    	</item><item>AT – Anti Tank
+    	</item><item>ARTOT – Avstand, Retning, Terreng, Oppfang, Tid
+
+        
+        </item><item>BattOff – Batterioffiser
+    	</item><item>Btt – Artilleribatteri
+    	</item><item>BC – Bæsj og Carry (mobilt toalett)
+    	</item><item>BF – Forkortelse for klengenavnet på forsvarets "lue, felt, vinter" (Bjørnefitte, uttales ofte Bjønnfette)
+    	</item><item>BK – Bombekaster
+    	</item><item>BMP – Bamsemumspatrulje
+   		</item><item>BNC – Bataljon
+    	</item><item>BL – Bodin Leir/Bravo Lima (luftvern leir i Bodø)
+    	</item><item>BRIG – Brigade
+    	</item><item>BS – Befalskole
+    	</item><item>BV – Beltevogn, brukes oftest om Bv206
+    	</item><item>BUS – Befal Uten Stilling
+        
+    
+        </item><item>CBRN – Chemical, Biologic, Radiologic, Nuclear (overtatt etter ARBC, tidligere ABC)
+    	</item><item>CC – Cold Challenge (NATO-øvelse)
+    	</item><item>CM – "Continue Mission" Fortsett oppdrag
+    	</item><item>CP – Kontrollpost (Check Point)
+    	</item><item>CR – Cold Response (NATO-øvelse)
+    	</item><item>CIMIC – "Civil - Military Co-operation" Sivilt militært samarbeide
+    
+        </item><item>DHO – Daghavende offiser
+    	</item><item>DIV – Divisjon
+    	</item><item>DTG – Dato/tidsgruppe, eksempel 012310 som betyr 1. i måneden (alltid førstkommende), klokka 2310
+    	</item><item>Detroit – Kontroll/vedlikehold av eget kjøretøy
+    	</item><item>Dimme – Dimmitering
+         
+    
+         
+    	</item><item>EET(j) – Etter Endt Tjeneste
+    	</item><item>ESK – Eskadron
+    	</item><item>ENO – Etter Nærmere Ordre
+    	</item><item>ETA – "Estimated time of arrival" Antatt tid for ankomst
+    	</item><item>ENDEX – "End of Exersise" Endt øvelse
+    	</item><item>Ebn – Etterretningsbataljonen
+         
+
+        </item><item>Fenr – Fenrik
+    	</item><item>FI – Fienden
+    	</item><item>FIH – Forsvarets Ingeniørhøgskole
+    	</item><item>FLO – Forsvarets logistikkorganisasjon
+    	</item><item>FO – Forsvarets overkommando
+    	</item><item>FOHK – Fellesoperativt hovedkvarter
+    	</item><item>FOH – Forsvarets operative hovedkvarter
+    	</item><item>FOB – Forward Operating Base
+    	</item><item>FOS – Forsvarets Opptak og Seleksjon. Opptak og seleksjon for de som søker befalskole og annen videreutdanning i forsvaret.
+    	</item><item>FR – Feltrasjon
+    	</item><item>FSJ – Forsvarssjefen
+    	</item><item>FSK – Forsvarets spesialkommando
+    	</item><item>FSTV – Forsvarets stasjon Vardø
+    	</item><item>FYFO – Fysisk fostring
+    	</item><item>FSA – Forward Support Area
+    	</item><item>FSAN – Forsvarets Sanitet
+
+		</item><item>GHS – Godkjent hærsoldat
+    	</item><item>GHVS – Godkjent HV soldat
+    	</item><item>GIF – Godkjent infanterist
+    	</item><item>GIH – Generalinspektøren for Hæren
+    	</item><item>GIHV – Generalinspektøren for Heimevernet
+    	</item><item>GIL – Generalinspektøren for Luftforsvaret
+    	</item><item>GIS – Generalinspektøren for Sjøforsvaret
+    	</item><item>GKL – Grunnkurs lederskap
+    	</item><item>GP – Garnison Porsanger
+    	</item><item>GRU – Grunnutrustning
+    	</item><item>GSH SAN – Godkjent soldat Hærens sanitet
+    	</item><item>GS – Golf Sierra på fonetisk alfabet, God stemning
+    	</item><item>GSS – Godkjent sambandssoldat
+    	</item><item>GSV – Garnisonen i Sør-Varanger
+    	</item><item>GUR – Granatutskytingsrør (40mm)         
+
+        </item><item>HEAT – High Explosive Anti Tank
+    	</item><item>HGR – Håndgranat
+    	</item><item>HJK – Hærens jegerkommando
+    	</item><item>HK – HK416
+    	</item><item>HV – Heimevernet
+    	</item><item>HMKG – Hans Majestet Kongens Garde
+    	</item><item>HBS – Hærens befalsskole
+    	</item><item>HVBS – Heimevernets befalsskole
+    	</item><item>HVSKS – Heimevernets skole og kompetanse senter
+
+        </item><item>IB – Inspiserende befal
+    	</item><item>IntOps – Internasjonale operasjoner
+    	</item><item>INGBN – Ingeniørbataljonen
+    	</item><item>I-Off – Idrettsoffiser
+    	</item><item>IÅM – Intet å melde
+
+        </item><item>JRFO – Jævla rask fotordonnans
+
+        </item><item>Kapt – Kaptein
+    	</item><item>KBE – Kropp, Bevegelse Energi
+    	</item><item>KO – Koordineringspunkt
+    	</item><item>KO – Kommandoplass
+    	</item><item>KDO – Kommando(plass)
+    	</item><item>KORP – Korporal
+    	</item><item>KJK – Kystjegerkommandoen
+    	</item><item>KK – Klasse kommandør
+    	</item><item>KP – Kompani
+    	</item><item>KS – Krigsskolen
+    	</item><item>KTK – Krigstjenestekort
+    	</item><item>KTS – Klar til strid
+
+        </item><item>LF – Lagfører
+    	</item><item>LKK – Lett Kjøretøy Kontroll
+    	</item><item>LKSK – Luftkrigsskolen
+    	</item><item>LSTV – Luftforsvarets stasjon Vardø
+    	</item><item>LVABn – Luftvernartilleribataljon
+    	</item><item>Lt – Løytnant
+    	</item><item>LTKV – Lett terrengkjøretøy, vinter (snøscooter)
+   		</item><item>LTKS – Lett terrengkjøretøy, sommer (sekshjuling)
+    	</item><item>LAS VEGAS – Sjekk av kostbart utstyr, f.eks. optikk og lysforsterkning.
+    	</item><item>LFR – Lett Felt Radio
+
+     
+
+        </item><item>MB – Mercedes Benz
+    	</item><item>MBK – Matriellberedskapskontroll
+    	</item><item>MedEvac – Medical evacuation
+    	</item><item>MFaBn – Middelstung FeltartilleriBataljon
+    	</item><item>MG – Maskingevær, MG3
+    	</item><item>Mitr – Mitraljøse. MG, tolvsju på 3-fot eller stativ
+    	</item><item>MJK – Marinejegerkommandoen
+    	</item><item>MJV – Marines Jegervåpen
+    	</item><item>MP – MP5, maskinpistol (nr. 5)
+    	</item><item>MP – Militærpoliti
+   		</item><item>MPB – Missilpatruljebåt (Missile Patrol Boat)
+    	</item><item>MTB – Missiltorpedobåt
+    	</item><item>MRR – Multi Rolle Radio
+    	</item><item>MSR – "Main Supply Route" Hovedfartsåre, Brukes om de største og mest brukte veier i utenlandstjenste og øvelser.
+    	</item><item>MUD – Midlertidig udyktig dimittert
+    	</item><item>MØR – Materiellødeleggelsesrifle
+
+        </item><item>NCC – National Contingent Command (Nasjonal koningentstab)
+    	</item><item>NF – Nærforsvar
+    	</item><item>NK – Nestkommanderende
+    	</item><item>NKTR – Nestkommanderende tropp
+    	</item><item>NLF – Nestlagfører
+    	</item><item>NSE – National Support Element (Nasjonalt støtteelement)
+
+        </item><item>OBLT – Oberstløytnant
+    	</item><item>OB – Oberst
+    	</item><item>OIBO – Opptreden i bebygd område
+    	</item><item>OK – Orlogskaptein
+    	</item><item>OP – Observasjonspost
+
+        </item><item>Pbn – Panserbataljonen
+    	</item><item>PBP – Plan- og Beslutningsprosess
+    	</item><item>PCP – People Check Point
+    	</item><item>PF – Patruljefører
+    	</item><item>PIKSIB – Planlegging, Iverksetting, Kontroll, Støtte, Informere og Bedømme, er en viktig huskeregel for lagføreren i sin lederrolle
+    	</item><item>PING – Pansret ingeniør
+    	</item><item>PKK – Periodisk kjøretøyskontroll
+    	</item><item>POKER – Planlegge, Organisere, Kontrollere, Evaluere, Revidere.
+    	</item><item>PPK – Pansret personellkjøretøy
+    	</item><item>PRT – Provincial Reconstruction Team
+    	</item><item>PSO – Peace support operations
+    	</item><item>PV – Panservern
+    	</item><item>PSYOPS – Psykologisk Krigføring Psyops
+
+        </item><item>RFK – Rekylfri kanon
+    	</item><item>Rittm – Rittmester ("kaptein" i kavaleriet)
+    	</item><item>ROE – Rules of Engagement
+    	</item><item>RSP – Reservestridsproviant
+
+        </item><item>SANBN – Sanitetsbataljonen
+    	</item><item>SBBN – Sambandsbataljonen
+    	</item><item>SIBO – Strid i bebygd område
+    	</item><item>SitRap – Situasjonsrapport
+    	</item><item>Sjt – Sersjant
+    	</item><item>SKSK – Skarpskytter
+    	</item><item>SKSK – Sjøkrigsskolen
+    	</item><item>SLO – Sluttet orden
+    	</item><item>SNAFU uoffisiell for «Situation Normal: All Fucked Up», (om stridshandlinger i forhold til stabsplaner)
+    	</item><item>SO – Stående ordre el. SituasjonsOversikt
+    	</item><item>SOG – Stående ordreGarnison(Garden)
+    	</item><item>SSO – Stasjonens stående ordre
+    	</item><item>SOF – Special Operation Force
+    	</item><item>SOI – Sambandsoperasjonsinstruks
+    	</item><item>SOP – Standard operasjonsprosedyrer
+    	</item><item>SOLOAPEFE – Huskeregel for vaktpostinstruks; Situasjon, Område, Lende (omkring posten), Opptreden (på post), Avløsning, Poststedet, Egne (avdelinger og naboposter), Feltrop (Skrives aldri ned), Egne (patruljer)
+    	</item><item>SPV – Stormpanservogn
+    	</item><item>SSDS – Huskeregel for ildstillinger; Skuddfelt (for å kunne virke med våpenet mot FI), Skjul (i lendet), Dekning (fra fiendtlig ild), Støtte (for våpenet)
+    	</item><item>Sting – Stormingeniør
+    	</item><item>Strv – Stridsvogn
+    	</item><item>Stalingrad – Stemningen i laget
+    	</item><item>Sibir – Kontroll av føtter i felt. Om vinteren også hender og ansikt, med tanke på kulde- og frostskader.
+
+        </item><item>TA – TroppsAssistent.
+    	</item><item>TAKSUS – Huskeregel for kjenning: Tårn, Antenner, Kanon, Skrog, Understell og Spesielle kjennetegn
+    	</item><item>TASS – Transport Av Sårede og Syke
+    	</item><item>Texas – Vedlikehold og kontroll av våpen i felt
+    	</item><item>TBS – Taktisk Båtskvadron
+    	</item><item>TIC – Troops in contact
+    	</item><item>TBF – Trebokstavs Forkortelse
+   		</item><item>TIM – Trening i maktanvendelse
+    	</item><item>TMBN – Telemark bataljon
+    	</item><item>TP – ToiletPaper "nyhetsoppslag" på kasernens toalett, ofte med morsomme sitater hørt på oppstillingsplass etc.
+    	</item><item>TRSJ – Troppssjef
+    	</item><item>TR – Tropp
+    	</item><item>TF – Task Force
+    	</item><item>TS – Taps/skademelding
+    	</item><item>TT – Tungtransport
+    	</item><item>TTT – Tenk, trykk, tal. Huskeregel for opptreden på samband. Kan også bety "ting tar tid".
+    	</item><item>TØUT– Taktisk Øvelse Uten Tropper
+
+        </item><item>UAV – Drone (Unmanned Aearial Vehicle)
+    	</item><item>UB – Utskrevet befal
+    	</item><item>UH/UKH – Ukehavende
+    	</item><item>UKHB – Ukehavende hornblåser
+    	</item><item>US – Utleveringsseddel
+    	</item><item>UTS – Utvikling til strid
+    	</item><item>UVB – Undervannsbåt
+    	</item><item>UM – Utskrevet menig
+    	</item><item>ULM – Utskrevet ledende Menig
+
+       	</item><item>VAB – Vernepliktig Akademisk Befal
+    	</item><item>VCP – Vehicle Check Point
+    	</item><item>VF – Vognfører
+    	</item><item>VHB – Vakthavende Befal
+    	</item><item>VK – Vaktkommandør/Vognkommandør
+    	</item><item>VKP – Veikontrollpost
+    	</item><item>VO – Vakthavende offiser/Voksenopplæringen
+    	</item><item>VPV – Vernepliktsverket
+
+         </item><item>ØG – Østerdal Garnison</item>
+         <item>TTV - Trops Tillitsvalgt</item>
+         <item>KTV - Kompani Tillitsvalgt</item>
+         <item>ATV - Avdelings Tillitsvalgt</item>
+         <item>BTV - Bataljons Tillitsvalgt</item>
+         <item>HTV - Hoved Tillitsvalgt</item>
+         <item>TMO - Tillitsmannsordningen</item>
+         <item>TCCC - Tactical Combar Casual Care</item>
+         <item>CUF - Care Under Fire</item>
+         <item>CBRN - Chemical Biological Radiological Nuclear</item>
+         
+     
+    </string-array>
+    
+</resources>

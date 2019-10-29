@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/image"
+        android:src="@drawable/sengestrekk" />
+    
+<LinearLayout
+    android:id="@+id/adViewLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_bg_shadow_ad"
+        android:orientation="vertical" >
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/admob_id" >
+        </com.google.android.gms.ads.AdView>
+        
+        <ImageView
+        android:id="@+id/noAdImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="#000000"
+        android:contentDescription="@string/image"
+        android:visibility="gone" 
+        android:src="@drawable/noad" />
+
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/ScrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/WelcomeFace"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk" />
+            
+            <ImageView
+                android:id="@+id/iseng1"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/image"
+               	/>
+            
+            <TextView
+                android:id="@+id/textView5"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_1" />
+
+            <ImageView
+                android:id="@+id/iseng2"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+
+            <TextView
+                android:id="@+id/textView7"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_2" />
+
+            <ImageView
+                android:id="@+id/iseng3"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+               />
+            
+            <TextView
+                android:id="@+id/textView9"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_3" />
+
+            <ImageView
+                android:id="@+id/iseng4"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                />
+            
+            <ImageView
+                android:id="@+id/iseng5"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView12"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_4" />
+
+            <ImageView
+                android:id="@+id/iseng6"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView14"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_5" />
+
+            <ImageView
+                android:id="@+id/iseng7"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView16"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_6" />
+
+            <ImageView
+                android:id="@+id/iseng8"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView18"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_7" />
+
+            <ImageView
+                android:id="@+id/iseng9"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView20"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_8" />
+
+            <ImageView
+                android:id="@+id/iseng10"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+                />
+
+            <ImageView
+                android:id="@+id/iseng11"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+               />
+            
+            <TextView
+                android:id="@+id/textView23"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_9" />
+            
+            <ImageView
+                android:id="@+id/iseng12"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView25"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_10" />
+            
+            <ImageView
+                android:id="@+id/iseng13"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                />
+            
+            <TextView
+                android:id="@+id/textView27"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_11" />
+            
+            <ImageView
+                android:id="@+id/iseng14"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView29"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_12" />
+            
+            <ImageView
+                android:id="@+id/iseng15"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView31"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_13" />
+            
+            <ImageView
+                android:id="@+id/iseng16"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            <TextView
+                android:id="@+id/textView33"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_14" />
+            
+            <ImageView
+                android:id="@+id/iseng17"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                />
+            
+            <ImageView
+                android:id="@+id/iseng18"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+               />
+            
+            
+            <TextView
+                android:id="@+id/textView36"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/sengestrekk_15" />
+            
+            <ImageView
+                android:id="@+id/iseng19"
+                style="@style/nowCardStyle"
+                 android:layout_width="match_parent"
+ 			     android:layout_height="wrap_content"
+	        	android:adjustViewBounds="true"
+	        	android:contentDescription="@string/image"
+                 />
+            
+            
+            
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

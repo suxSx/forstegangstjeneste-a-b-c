@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:padding="@dimen/widget_margin">
+
+    
+      <RelativeLayout
+                 android:id="@+id/layerDIMWig"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical" >
+
+                 <ImageView
+                     android:id="@+id/newDimImgWig"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:adjustViewBounds="true"
+                     android:src="@drawable/plainbackground" />
+                 
+                 <TextView
+                     android:id="@+id/days_to_text_dimWig"
+                     android:layout_width="fill_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_alignParentLeft="true"
+                     android:layout_alignParentTop="true"
+                     android:layout_marginTop="20dp"
+                     android:gravity="center"
+                     android:text="ANTALL DAGER TIL DIM"
+                     android:textAppearance="?android:attr/textAppearanceLarge"
+                     android:textColor="#FFFFFF"
+                     android:textStyle="bold" />
+
+                 <TextView
+                     android:id="@+id/days_to__dimWig"
+                     android:layout_width="fill_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_alignParentLeft="true"
+                     android:layout_alignParentTop="true"
+                     android:layout_marginTop="60dp"
+                     android:gravity="center"
+                     android:text="100"
+                     android:textAppearance="?android:attr/textAppearanceLarge"
+                     android:textColor="#FFFFFF"
+                     android:textStyle="bold" />
+
+             </RelativeLayout>
+
+</FrameLayout>

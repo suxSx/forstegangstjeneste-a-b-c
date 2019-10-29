@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="avstand_string"><b>Gjetting</b>
+        \nDu tar rett og slett og gjetter på avstanden.
+        
+        </string><string name="avstand_string_1"><b>Sammenlingnings Metoden</b>
+        \nDu sammenligner avstanden med noe du har sett fra før. Kanskje du har en vei eller strekning hjemme? Den ser kanskje lik ut til avstanden du har her, du sammenlingener de to. Og finner ut en ca avstand.
+        
+        </string><string name="avstand_string_2"><b>MAX-MIN Metoden</b>
+        \nDu tar og lager et maks punkt. Det er ikke lengre enn 600 m, og ihvertfall ikke kortere enn 400. 600 + 400 = 1000. 1000 / 2 = 500. Da er det ca. 500 meter til målet.
+        
+        </string><string name="avstand_string_3"><b>Boer Metoden</b>
+        \nTa en penn og hold den mot målet. Sikt nå toppen av pennen mot toppen av målet og flytt tommelen slik at den er rett under målet. Legg pennen på siden, lukk øyet du har åpent, og åpne neste øyet. Tell nå hvor mange flytt du må ta med pennen for og komme bort til målet. Formel: <i>Høyde på målet x 10 x antall forflyttninger</i>. F.eks En person er 1.9 m og du brukte 2.5 flytt. 1.9 m X 10 x 2.5 = 50 meter.
+        
+        </string><string name="avstand_string_4"><b>Synlighetsmetoden</b>
+        \n<i>Gjennomsnitt høyde på menneske 1.8 meter. Under vill du se en liste over meter og synligheter. 50 &#62; skille øye, vil si at når du kan skille øyet er han 50 meter eller mindre fra deg etc. </i>
+        \n
+        \n50 m &#62; Skille øyet
+        \n50 m &#60; Kan ikke skille øyet
+        \n150 m &#62; Trekk i annsikt/våpen/rustning
+        \n250 m &#62; Ansikt lysflekk
+        \n300 m &#62; Skille bein/armer/hode
+        \n400 m &#62; Skille hode kontur
+        \n400 m &#60; Se en person
+        
+    </string>
+    
+        <string name="avstand_string_5"><b>HUSKE REGEL</b>
+		\n1. Alt som gjør målet lett å se, bedømmes for kort
+		\n\n2. Alt som gjør målet vanskelig å se, bedømmes for langt.</string>
+    
+        <string name ="kompass_1"><b>Målestokk</b>
+            \nMålestokken på kartet forteller deg hvor mange ganger kartet er forminsket i forhold til terrenget.
+			\n
+			\nDette betyr at du kan måle deg til hvor langt det er i luftlinje i virkeligheten mellom steder på kartet. 
+            \n
+            \n<i>1:250 000</i>
+			\n– 1cm målt på kartet er 250 000 cm (2500 m) i terrenget
+       		\n
+       		\n<i>1:50 000</i>
+			\n– 1cm målt på kartet er 50 000 cm (500 m) i terrenget.
+			\n
+			\n<i>1:25 000</i>
+			\n– 1cm målt på kartet er 25 000 cm (250 m) i terrenget
+        </string>
+        
+        <string name="kompass_2"><b>Høydekurver</b>
+            \nHvert kart har noe kalt ekvistanse (E), denne sier noe om hvor langt det er mellom hver høyde ring. 
+            \n
+            \nAlle høyderinder er brune, noen av dem er tykkere enn andre. Disse er kalt telleringer, hver 5 ring er tykk. 
+            \n
+            \nSelv om noen av dem er lengre frahverandre og andre kortere har ikke dette noe med distansen og gjøre. Er det langt mellom dem er det slak stiging. Er det kort mellom dem er det bratt stigning. Se bilde under.
+            
+        </string>
+        
+        <string name="kompass_3"><b>Marsretning</b>
+            \nTa kompasset legg det ned på kartet. Den ene enden på punkt A hvor du går fra. Den andre på punkt B, hvor du skal. Skru huset med kompass nåla slik at den linjen i den peker likt som med linjene i kartet. 
+            \n
+            \nNår du nå løfter den av kartet få nåla til og ligge i nord ifølge kompasshuset og du kan nå følge pilen på kompasset i retningen du skal gå. Se bilde under.
+        </string>
+        
+        <string name ="kompass_4"><b>Finn Plassering</b>
+            \nNår du skal avgi possisjonen din bruker vi siffer plassering. De to viktigste som brukes er 4 siffred og 6 siffred.
+            \n
+            \nNår du skal finne tallene husk regla: <i>Inn døra opp Trappa</i>
+            \n
+            \nJobb deg bort på kartet så opp over. I eksemplet bruker vi 37 som er bort og 52 er opp. Siffer plasseringen til ruta er da 3752.
+            \n
+            \nNår vi bruker 6 siffer. Deler vi ruta inn i 10. Og teller bort over og legger til et ekstra tall for og finne X i eksemplet blir det da 377522. 7 ekstra bort og 2 ekstra opp.
+            
+        </string>
+        
+        <string name="ref_1"><b>Generelt om Refselse</b>
+        
+        \nBrukes kun når andre virke midler som: ros, veiledning, opplæring, motivering. <i>Ikke fungerer eller anses som utilstrekkelig.</i>
+        \n
+        \nRefelse er ikke straff.
+        \n
+        \nHensikten er å skape og <i>opprettholde militær disiplin i forsvaret.</i>
+        \n
+        \nFor og bli straffet skal det ligge et forsettelig handlingbak. Men kan også bli straffet for uforsettlig så kalt uaksomhet.
+        \n
+        \nMan kan foreksempel bli refset for.:
+        \n- Brudd på lov.
+        \n- Brudd på reglement
+        \n- Brudd på instruks
+        \n- Brudd på direktiv
+        \n- Brudd på forskrift
+        \n- Brudd på Rettmessig Ordre
+        \n- Brudd på Militærskikk og orden.
+        
+        </string>
+        
+        <string name="ref_2">Man skal unngå både Straff og Refs. (disp. paragraf 10)</string>
+        
+        <string name="ref_3">2 år etter at den refsbare handlingen fant sted kan du ikke lengre straffes jF. straffeloven paragraf 9.</string>
+        
+        <string name="ref_4">Man kan bare refse <i>undergitt</i> personell man er <I>foresatt</I> for.
+            \n
+            \nMyndigheten kan ikke delegeres.
+            \n
+            \nPersoner som er høyere rang, men ikke din overordnet kan ikke refse deg, men du må vise respekt.
+            \n
+            \nNår du er dimmitert kan VPV Sjef Refse deg.
+            
+         </string>
+         
+        <string name ="ref_5"><b>Hvordan kan du bli refset?</b>
+            \n<i>I lov om militær disiplinærmyndighet står det følgende under kapittel 2. Refselsesmidlene.</i>
+            \n
+            \nParagraf 5. som refselsesmiddel <i>må bare brukes:</i>
+            \n
+            \n1.) Arrest intill 20 dager.
+            \n2.) Bot som fastsettes på grunnlag av det tjeneste tillegget som gjelder for menige.
+            \n3.) Frihetsinnskrenkninng som består i forbud mot til visse tider av dagen eller hele døgn:
+            \na) å gå utenfor leiren eller annet nærmere avgrenset område eller fartøy for et tidsrom intill 30 dager, eller
+            \nb) å forlate fartøy for bestemte landgangsturer innen samme tidsrom.
+            \n4.) Irettesettelse som gis i form av.:
+            \na)streng irretesettelse i nærvær av flere befal eller menige, eller 
+            \nb) simpel irettesettelse i enerom eller tjenestlig skriv.
+            \n
+            \nEn alminnelig tilrettevisning er ikke refselse, samme gjelder pålegg om å utføre eller gjenta tjenester som er forsømt eller dårlig utført.
+            \n
+            \nKollektive reaksjoner i refsehensikt er forbudt.
+            \n
+            \nVidere står det i <i>Forskrift om disiplinærreglementet</i>
+            \n
+            \nTil lovens paragraf 5.
+            \n20. <i>Andre reaksjoner enn de refselsmidler som er nevnt i lovens paragraf.5. kan ikke brukes som refselse.</i> Heller ikke kan reaksjoner brukes i refselseshensikt uten at det skjer etter denne lovs regler. Det regnes ikke som reaksjon i refselseshensikt at dårlig utført eller forsømt tjeneste blir pålagt utført eller pålagt gjentatt. Slik tjeneste skal ikke henlegges til tid eller sted som gjør den unødig byrdefull.
+            
+        </string>
+        
+        <string name="ref_6"><b>Frihetsinnskrenkning</b>
+        	\n
+        	\n29. Tid og område som nevnt i lovens paragraf 5 nr. 3 a). kan fastsettes i instruks eller i den enkeltes refselsesordre.
+        	\n
+        	\n30. Ved stående ordre kan det fastsettes kontrolltiltak, herunder begrenset meldeplikt, for å sikre at frihetsinnskrenkningen etterleveres.
+        	\n
+        	\nDet kan pålegges at meldplikt skal foretas iført uniform, men det kan ikke som et ledd i refelsesvedtaket bestemmes at eventuell rett til å bære sivilt antrekk oppheves for frihetsinnskrenkningens varighet.    
+        
+        </string>
+        
+        <string name="dim_1">Under førstegangstjenesten er det en ting alle kommer inn på. Dimme dagen, en dag alle gleder seg til og som alle teller ned til. En dimme kalkulator er derfor en klassikker og er selvfølgelig en del av applikajsonen.</string>
+    	<string name="dim_2">Velg dimme dagen</string>
+    	<string name="dim_3">Lagre</string>
+    	<string name="dim_4">Antall dager til dim: </string>
+    	
+    	<string name="feedback_1">Vi prøver hele tiden og forbedre appen, men det er ikke alltid vi er først ute for og komme på nye ting.
+    	    \n
+    	    \nHar du en ide til noe som mangler, kanskje en ny forkortelse? Eller ønsker du rett og slett og gi en tilbakemelding. Ta da gjerne og del dine tanker med oss.
+    	    \n
+    	    \nFor best tilbakemelding anbefaler vi deg og logge inn med facebook, ditt bidrag går da rett til vår Facebook side og sørger for raskt svar. Du kan også fortsette uten, du vil da få muligheten for og sende oss en epost.</string>
+    	<string name="feedback_2">Hva gjelder det:</string>
+    	<string name="feedback_3">Dine tanker &#8230;&#8230;&#8230;</string>
+    	<string name="feedback_4">Send</string>
+    	<string-array name="feedback_5">
+    	    <item>Bidrag til Tips og Triks</item>
+    	    <item>Ny forkortelse</item>
+    	    <item>Ny informasjon</item>
+    	    <item>Tilbakemelding</item>
+    	    <item>Andre ting</item>
+    	</string-array>   
+    	
+    	<string name="om_string">Førstegangstjeneste A-B-C
+    	    \nby Marcus Knoph, aka. suxSx
+    	    \n
+    	    \nVersion 8.0.0\nCopyright © 2014 Marcus Knoph
+    	    \nAll Rights Reserved.
+    	    </string>
+    	    
+    	<string name = "san_4">Livreddende førstehjelp har som hovedmål å optimalisere kroppens oksygentilførsel fram til den syke eller skadde kan få mer avansert behandling. Hovedpunktene i førstehjelp blir gjerne oppsummert i huskeregler som BLÅST eller ABCDE for at de skal være lette å huske.
+\n
+    \nB – Bevissthet
+    \nL – Luftveier
+    \nÅ – Åndedrett
+    \nS – Sirkulasjon
+    \nT – Temperatur
+\n
+\neller
+\n
+    \nA – Airways
+    \nB – Breathing
+    \nC – Circulation
+    \nD – Disability
+    \nE – Expose/Exam/Environmental Control
+    \n
+    \nUnder her har du A-B-C-D-E drillen. Når du utfører drillen, begynner du på toppen og går ned over.
+    \n
+    \nDu vil se at det er noen punkter der som heter Revurder X. Hvor X er enten A, B, C, D eller E. På disse punktene går du tilbake til bokstaven X og revuderer kun de punktene som har en <i>R</i>.
+    	    
+    	    
+    	</string>
+    	
+    	<string name="fonTestIn">Dette er en test for og teste dine kunskaper angående det Fonetiske alfabet.
+    	    \n
+    	    \nDu skal på hvert spørsmål oppgi hva bokstaven er i det fonetiske alfabet. Hvor mange riktige klarer du?
+    	</string>
+    	
+    	<string name="hk416_intro">I denne seksjonen, har vi tenkt og samle det meste du trenger av informasjon. For og kunne bruke din HK-416 riktig og bra.
+    	    \n
+    	    \nVi har alt fra kulebane til våpen puss. Dra uten menyen på venstre side igjen og ta deg en titt.
+    	    \n
+    	    \nVi ønsker hele tiden og kunne være oppdatert så har du noen flere tips til oss ta gjerne og send det inn.</string>
+    	    
+    	<string name="hk416_info">HK416 er Forsvarets nye automatgevær og erstattet fra 2008 AG3, som hadde vært i bruk fra slutten av 60-tallet. 
+    	    \n
+    	    \nPistolen kommer med røde punktet syn og lys som kan festes til såkalte Picatinnyskinner. Grenade Launcher og annet tilbehør kan monteres på våpenet og gjør det enkelt å tilpasse. 
+    	    \n
+    	    \nHK416 brukes av soldater i alle forsvarsgreiner.</string>
+    	    
+    	<string name="hk416_puss"><b>Det er feil at HK-416 ikke trenger våpen puss</b>
+    	    \nog at det kan skytes uendelig med våpenet før det må pusses.
+    	    \n
+    	    \nDet viktigste du kan gjøre er å pusse våpenet etter bruk, og i ledig tid.
+    	    \n
+    	    \nBruk olje på ywisten og pusselappen i stedet for å gni kruttslammet rundt med <i>tørr twist!</i> Det gir ingen virkning.
+    	    \n
+    	    \nOm det er sommer/vinter/sand/ørken/tørt er fellesneveren å bruke olje på alle bevegeligedeler!. Ved eventuelt sand og ørken må du bytte ut den oljen som er på våpenet hyppigere.
+    	    \n
+    	    \nBruk kun godkjent olje! CLP - breakfree løser opp avsetninger, smører og hindrer rust.
+    	    \n
+    	    \nPussestang skyves fra kammeret.
+    	    \n
+    	    \nFor feltpuss følges samme prossedyre som under, med unntak av sluttstykket, buffer/bufferfjær og magasin tas ikke fra hverandre.
+    	   
+    	</string>
+    	
+    	<string name="hk416_puss_1"><b>Kronologisk momentliste</b>
+    	    \n1. Tøm våpen!
+    	    \n
+    	    \n2. Start med Aimpoint (linsepapir). Rengjøres med lunkent vann dersom det er sand/støv eller lignende FØR bruk av linsepapiret. Bruk gjerne rennende varmt vann.
+    	    \n
+    	    \n3. Tørk over våpen/fjern støv, sand skitt o.l
+    	    \n
+    	    \n4. Atskill våpen (ihhnt side 20-23 i UD 5-21-1 hefte 1, våpenkjennskap HK416)
+    	    \n
+    	    \n5. Dra gjennom løpet med oljet pusselapp for å fjerne skitt og smuss.
+    	    \n
+    	    \n6. Olje løpet med børste (ifra kammer). Bruk kobberbørste med olje på 5x tur-retur. (<i>Aldri</i> tørr børste, HELT UT av løpet foran og bak, ikke snu i løpet.) og <i>la oljen virke</i> mens du gjør pkt. 7-9.
+    	    \n
+    	    \n7. Fokus på hvor du skal kraftsamle pussen er gassystemet: <i>gassblokk, gassstempel og gassventil.</i> Sett derfor disse delene godt inn med olje og få olje inn i alle hull som har betydning for gasssystemet og la <i>oljen virke noen minutter</i>.
+    	    \n
+    	    \n8. Puss kammer med innoljhet kammerbørste og la <i>oljen virke</i>. Vær nøye med låsearealet (stjerna) der sluttstykkehodet låser.
+    	    \n
+    	    \n9. Puss enkeltdeler med universalbørste (populært kalt tannbørste) og pusselapper, merk følgende punkter:
+    	    
+    	</string>
+    	    
+    		<string name="hk416_puss_2"><b>Sluttstykket</b>
+    		    \nRengjør sluttstykket grundig
+    		</string>
+    		
+    		<string name="hk416_puss_3"><b>Gassblokk</b>
+    		    \nBruk pussestang med passe størrelse innoljet twist/pusselapper inne i gassblokken, bruk universalbørsten på utsiden.
+    		</string>
+
+    		<string name="hk416_puss_4"><b>Gassventil</b>
+    		    \nBruk oljeflaskentil å olje rundt gassventilen på begge sider for å la oljen sive inn i ventilen og løse opp det som er der. Bruk heller noen mililiter våpenolje for mye enn for lite! Vri ventilen noen ganger mellom N og S.
+    		</string>	
+    	
+    		<string name="hk416_puss_5"><b>Gasstempel</b>
+    		    \nAvsetningen på gasstemplet er ett av de punktene som er vanskelig å fjerne. Det skal <i>IKKE</i> brukes medfølgende kommer/børste eller stålull. Universalbørste/Tannbørste er det verktøyet som skal nyttes.
+    		</string>
+    		
+    		<string name="hk416_puss_6"><b>Frontsikte</b>
+    		    \nDette vil gro igjen dersom den enkelte ikke pusser. Kruttgass spruter ut rett over frontsiktet når dette er nedslått. Bruk tannbørsten på over- og undersiden av feste for frontsiktet. Dersom dette gror fast og ikke er mulig å åpne: Bruk olje, <i>la dette virke en god stund.</i> Bruk en skrutrekker eller tilsvarende for å få mekanismen i gang igjen. Fastgrodde frontsiker kan være en indikasjon på dårlig puss!
+    		</string>
+    		
+    		<string name="hk416_puss_7"><b>Forskjefte</b>
+    		    \nPå innsiden av forskjeftet i området rundt gassventilen, vil det danne seg mye avsetninger. Dette må oljes inn og pusses bort med twist/universalbørste. Dersom ikke dette blir gjort skikkelig, vil det etter hvert bli vanskelig å sette på forskjeftet. Dette vil igjen føre til treffpunktendringer (spesielt hvis aimpint er festet på forskjeft-railen), da forskjeftet ideelt sett må settes på nøyaktig samme plass og skrues på med nøyaktig lik kraft hver gang.
+    		    
+    		</string>
+    		
+    		<string name="hk416_puss_8">
+    		    10. Tørk av overflødig olje.
+    		    \n
+    		    \n11. Skyv pussestang med ren pusselapp gjennom løpet (fra kammer) til løpet er rent. Kast pusselapp og sett på ny, for hver gang den er skjøvet gjennomløpet. Hvis ikke løpet er rent, gjentas punkt 5.
+    		    \n
+    		    \n12. Tørk av/rengjør ladearm.
+    		    \n
+    		    \n13. Tørk av/rengjør  buffer og bufferfjær.
+    		    \n
+    		    \n14. Atskill magasin og puss dette.
+    		    \n
+    		    \n15. Sett deretter våpnet inn med olje. Tynt lagt med olje på alle metall flater. Tykt lag med olje på alle bevegelige deler (utsiden av styrebolt, låsesplint for tennstempel, utsiden av sluttstykkehode, -bærer og innvendige deler av glidekassen + deler i gassystem)
+    		    \n
+    		    \n16. Sett våpenet sammen iht side 20-25 i UD 5-21-1 hefte 1, retningslinjer for HK 416 start med buffer og bufferfjær.
+    		    \n
+    		    \n17. Foreta funksjonskontroll.
+    		</string>
+    		
+    		<string name="tips_intro">Vi har i denne avdelingen av applikasjonen, lagt inn alle tips og triks vi får fra dere soldater. Vi har også lagt inn noen av våre egene. 
+    		    \n
+    		    \nVi har laget denne applikasjonen for at hverdagen deres skal bli lettere, så har dere noen tips og triks ikke nøl med og send dem inn til oss. Slik at vi kan få lagt dem inn i applikasjonen og dele dem med resten av soldatene.
+    		    \n
+    		    \nFørstegangstjeneste A-B-C er en app for Soldater av Soldater.</string>
+    		    
+    		
+    		<string name="sengestrekk">Noe av det alle skal igjennom i sin Førstegangstjeneste er sengestrekk. Dette er vanskelig i begynnelsen for de fleste, det finnes mange måter og gjøre det på. Vi skal her vise noen tips for og gjøre hverdagen med dette enklere.
+    		    \n
+    		    \nVi starter først med lakenet, dette skal være stramt og fint. Ikke inneholde noen form for skrokker eller kanter i seg, samt være rett og pent.
+    		    \n
+    		    \nOfte når du sover vil du skrukke det til, og du må bruke morgendagen din på og fikse dette samt strekke dyna. For og unngå og bruke unødvendig mye tid på dette er sikkerhetsnåler det beste.
+    		    \n
+    		    \n Start med og legge lakenet ut på golvet.</string>
+    		    
+    		<string name="sengestrekk_1">Legg nå madressen på toppen av laknet.</string>
+    		
+    		<string name="sengestrekk_2">Ta og brett inn de lange sidene.</string>
+    		
+    		<string name="sengestrekk_3">Ta og brett opp de korte sidene, som om du skal brette inn kantene på en gave.</string>
+    		
+    		<string name="sengestrekk_4">Det neste du gjør er og brette de opp feste hvert hjørne med en sikkerhetsnål stramt og godt.</string>
+    		
+    		<string name="sengestrekk_5">Gjenta dette på alle de andre hjørne og du vil få et stramt og godt laken, som du slipper og strekke hver dag du står opp.</string>
+    		
+    		<string name="sengestrekk_6">Neste steg er dyna, brett denne dobbel. Lang side mot lang side og legg den ned i senga. Her er det beste og være to for og få den skikkelig stram. Men en går fint også.</string>
+    		
+    		<string name="sengestrekk_7">Ta nå og brett den dobbel en gang til. Lang side mot lang side.</string>
+    		
+    		<string name="sengestrekk_8">Du har nå en lang pølse. Neste steget er og ta tak i den øverste fliken, brett den ut slik at på innsiden har du nå en stor klomp med 3 fliker og venstre siden er flat.</string>
+    		
+    		<string name="sengestrekk_9">Ta tak i de tre flikene på høyre side. Løft dyna opp og legg de ned mot deg.</string>
+    		
+    		<string name="sengestrekk_10">Ta nå og brett den store fliken inn på toppen. Du har nå 4 brette kanter på siden mot deg og 2 på siden mot veggen. Det neste du gjør er og snu dyna rundt, slik at du har de 2 flikene mot deg og resten inn mot veggen.</string>
+    		
+    		<string name="sengestrekk_11">Ta nå tak i den øverste av de 2 flikene mot deg, brett den ut mot veggen. Dyna er nå strekt.</string>
+    		
+    		<string name="sengestrekk_12">Ekstra stoff ved fot enden stapper du ned i bunnen av senga.</string>
+    		
+    		<string name="sengestrekk_13">Når det gjelder puta, løft opp toppen av dyna slik at under siden av den kommer til syne.</string>
+    		
+    		<string name="sengestrekk_14">Pakk puta inn under den.</string>
+    		
+    		<string name="sengestrekk_15">Brett dyna tilbake og dra i toppen av den for og få dyna stram og fin. Du har nå strekt senga.</string>
+    		
+    		<string name="skapbrett">Noe som alle skal gjennom er skap bretting. Vell og merke er det forskjellige standarer på dette. Men det er noen ting som går igjen på alle.
+    		    \n
+    		    \n- Skapet ditt skal alltid være systematisk. Ren genrell orden, ikke kast ting på golvet. Bruk heller to ekstra sekunder på og henge det opp riktig.
+    		    \n
+    		    \n- Du skal ha telle kanter på alt du eier og har. Slik at det er lett og holde oversikt. Når du bretter pass på at du ikke viser søm fra tøyet i brette kanten.
+    		    \n
+    		    \n- Så lenge det ser fint ut foran og pent, kan du baksiden av det du bretter ligge i en krøll. Første intrykket er alt.
+    		    \n
+    		    \n- Ofte har du en privat hylle. Denne skal også ha orden, men har du en toalett mappe sett denne foran pent og pyntlig. Så kan du rote så mye du vil bak den.</string>
+    		
+    		<string name="skapbrett_1">Ting skal ligge kant i kant i skapet. Ta gjerne og sammenlign med noe når du bretter. Legg våpen reimen din inn i skapet og se hvor breit det er. Når du bretter legger du den foran det du bretter så du får riktig bredde.</string>
+    		
+    		<string name="skapbrett_2">Har du dårlig tid en dag, kan du dobbelt brette tøyet for flere telle kanter. Men de fleste befal kjenner til triksa så pass på at du i så fall bretter det så høyt opp at det går i taket på hylla over. Da kan ikke befalet se inn, og ser det bra ut ved første øyekast sjekker de sjeldent nærmere.</string>
+    		
+    		<string name="skapbrett_3">Brett tøyet så tynt som mulig. Da er det enklere og få det porno, det som er ekstra bak ser du ikke når det ligger flere plagg opppå hverandre. Bare husk og snu f.eks t-shortene så du ikke har en brett mitt på. Snu derfor skorta slik at en slik kant mitt på peker ned mot skapets bunn.</string>
+    		
+    		
+    	
+    	<string name="get_started">For best opplevelse, logg inn med Facebook</string>
+    	
+    	<string name="hmkgtips_1">I HMKG er det mye som skal være på stell. Alt fra parade antrekk til vanlig felt uniform. Det er så pass mye at vi har valgt og opprette en egen siden for akuratt dette.\n
+    	    \n
+    	    Du vil her kunne finne diverse tips og triks som er beregnet spesielt på garden.</string>
+    	    
+    	<string name="hmkgtips_2">Noe av det første du må lære er og pusse parade belte og magasin tasker. Dette gjøres som om du skulle pusset skoa. Det beste trikset er og smøre det tykt inn med sko krem. La det stå og virke over natten.</string>
+    	
+    	<string name="hmkgtips_3">Når du våkner dagen etter, da en fille eller sokk. Se tips for skopuss. Ta deretter og tørk av all overflødig skokrem fra taskene og belte. Samt hengefestet til basjonetten. Du vil nå se at alt sammen glinser og ser nesten ut som nye.</string>
+    	
+    	<string name="hmkgtips_4"><b>Paradehatt</b>\n
+    	    Når det gjelder paradehatten er det viktigste her dusken. Denne skal henge rett ned på høyre siden og være jeven og fyldig.
+    	    \n
+    	    \nFor og få dette til må du dampe hatten. Ta og bruk et damp strykehjern eller hold den over dampen fra varmt vann i vasken. Ta og gre den med kam for deretter og sette den pent fra deg med dusken hengene fritt. 
+    	    \n
+    	    \nEtter noen timer vil vannet være tørt og dusken henge rett. Noe annet som er viktig er selve måten den er gredd på. Fram siden av duskens pinne. Se bilde under. Skal være rett den å og resultatet skal se ut som på bilde.</string>
+    	    
+    	<string name="hmkgtips_5"><b>Paljetter</b>
+    	    \nPaljettene som er på skuldrene dine skal også være rette og ikke krøller på. Samme triks gjelder her. Ta og damp dem, og dra i de. Eller hvis du har god tid. Ta og dypp dem i varmt vann, dra de rette og heng den til tørk. Dagen etter vil de være tørre og stive og de holder seg pene lengre.
+    	</string>
+    	
+    	<string name="skopuss_1"><b>Gå inn skoa</b>
+    	    \nNoe av det første alle merker er at skoa gir gnagsår. De må gås inn. Den enkleste måten er og gå med dem ut i vann og gå med dem til de blir tørre. 
+    	    \n
+    	    \nEventuelt ta og sett dem inn i dusjen og gjør dem søkk våte og bruk dem etter på.
+    	    \n
+    	    \nDet som er viktig så er at når du skal legge deg. SMØR inn skoa med så mye skokrem du klarer. De vil da i løpet av natten trekke inn i læret og gjøre dem myke.
+    	</string>
+    	
+    	<string name="skopuss_2">Kommer du derimot inn på vinteren er det ikke så akutelt og gå med dem våte. Ta da og sett dem inn i dusjen og gjør dem totalt våte. 
+    	    \n
+    	    \nNår de har stått i varmt vann en stund tørk de så godt du klarer og sett dem deretter inn med så mye skokrem du kan. 
+    		\n
+    		\nTil slutt låser du dem inn i tørke boden og lar dem stå der over natten. Dagen etter så pusser du av overflødig skokrem de vil da være blanke og fine. 
+    		\n
+    		\nDe vil kanskje være litt harde og gå med den første timen, men etter en stund myker læret seg opp og du slipper gnag sår. Den beste måten og ungå gnagsår på er tykke sokker. Så bruk de tykkeste ullsokkene du får utlevert den første tiden så vil du merke at det er mye bedre og gå med. 
+    		
+    	</string>
+    	
+    	<string name="skopuss_3">Den beste måten og pusse skoa på er og smøre de tykt inn med skokrem og la det sitte en stund. Etter på bruker du sko børsten og tørr pusser dem. For det beste resultatet bruk en gammel bommul sokk. Eller et tynt stoff, nakke lappen på NSB togene er perfektet. Spør om du kan få en slik av dem og ikke bare ta dem fra togene. De har ofte mange ekstra liggende og er utmerket til skopuss på farten.</string>
+    	
+    	<string name="skosole_1">Mange sliter med beinhinne betennelse under de første ukene i førstegangstjenesten. Man er ikke vant med og gå så mye og skoa demper ikke så mye heller.
+    	    \n
+    	    \nOg invistere i sorrebotansåler som demper i skoa er ikke dumt. Men disse koster ofte litt. Det du derimot kan gjøre er og spør befalet ditt om du kan få noen gamle ligge underlag.</string>
+    	    
+    	<string name="skosole_2">Ta der etter og legg sålen du alt har på ligge under laget. Og tegn rundt den.</string>
+    	
+    	<string name="skosole_3">Ta nå og klipp ut din nye såle fra liggeunderlaget og bruk den som en ekstra såle under ullsålen. Beina dine vil merke en mye bedre hverdag etter dette og du slipper og slite så mye med beinhinnebetennelse.</string>
+
+</resources>

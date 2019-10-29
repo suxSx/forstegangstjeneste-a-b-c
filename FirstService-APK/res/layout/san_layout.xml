@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="#000000"
+        android:contentDescription="@string/image"
+        android:src="@drawable/sann2" />
+
+    <LinearLayout
+        android:id="@+id/adViewLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_bg_shadow_ad"
+        android:orientation="vertical" >
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/admob_id" >
+        </com.google.android.gms.ads.AdView>
+        
+        <ImageView
+        android:id="@+id/noAdImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="#000000"
+        android:contentDescription="@string/image"
+        android:visibility="gone" 
+        android:src="@drawable/noad" />
+
+    </LinearLayout>
+    
+
+
+    <ScrollView
+        android:id="@+id/ScrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+            <TextView
+                android:id="@+id/WelcomeFace"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/san_4" />
+
+            <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        style="@style/nowCardStyle"
+        android:shrinkColumns="*">
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+	
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+            
+            <TextView
+                android:id="@+id/WelcomeFace1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="San. Nivå 2 - Kortsjekkliste" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_marginLeft="15dp"
+                android:text="Sikkerhet" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        	
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Hansker" />
+        
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Vurder situasjon" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Store pågående blødninger?" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView210"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView311"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Høyenergi?" />
+            
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow412"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView213"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView314"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Kontakt pasient - bevissthet?" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow415"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView216130"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="A" />
+
+            <TextView
+                android:id="@+id/textView3129"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_marginLeft="15dp"
+                android:text="Bevisst, pustevansker?" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4128"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2127"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView3125"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Bevistløs, rop om hjelp" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow4126"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2124"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView3123"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Ryggleie" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4122"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2121"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView3120"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Åpne Luftveier, se-lytt-føl" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4119"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2118"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView3117"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Puster normalt - sikre luftveier" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4116"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2115"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView3114"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Puster unormalt - Varsle" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4113"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2112"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView3111"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Start HLR" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4110"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2109"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="B" />
+
+            <TextView
+                android:id="@+id/textView3108"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textStyle="bold"
+                android:text="Brystundersøkelse" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4107"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2106"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView3105"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Sår/skader/misfargin" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4104"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2103"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView3102"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Anstrengt Resp" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow4101"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView2100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView399"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Symmetri" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow498"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView297"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView396"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Stabil brystkasse" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow495"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView294"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView393"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Sjekk bak" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow492"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView291"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView390"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Behandle skader" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow489"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView288"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView387"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Revurder A" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow486"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView285"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="C" />
+
+            <TextView
+                android:id="@+id/textView384"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textStyle="bold"
+                android:text="Blødninger Ytre og Indre" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow483"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView282"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView381"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Behandle skader" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow480"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView279"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView378"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Pulskontroll" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow477"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView276"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView375"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Hud" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow474"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView273"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView372"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Sirkulasjonssvikt" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow471"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView270"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView369"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Revuder A, B" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow468"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView267"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="D" />
+
+            <TextView
+                android:id="@+id/textView366"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textStyle="bold"
+                android:text="Bevissthet" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow465"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView264"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView363"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Reaksjon på tiltale" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow462"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView261"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView360"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Åpner øynene" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow459"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView258"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView357"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Svarer adekvat" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow456"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView255"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView354"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Beveger armer/bein" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow453"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView252"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="R" />
+
+            <TextView
+                android:id="@+id/textView351"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:text="Reaksjon på smerte" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow450"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView249"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView348"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Åpner øynene" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow447"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView246"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView345"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Svarer med ord/lyder" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow444"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView243"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView342"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:text="Beveger armer/bein" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow441"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView240"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView339"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Revurder A B C" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow438"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView237"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="E" />
+
+            <TextView
+                android:id="@+id/textView336"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textStyle="bold"
+                android:text="Head to toe" />
+            
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow435"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView234"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView333"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Forhindre hyper- /hypothermi" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow432"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView231"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView330"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Revurder A, B, C, D" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow429"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView228"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView327"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Evt. sideleie" />
+            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow426"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView225"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView324"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Varske (113 eller iht avdeling)" />
+            
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow423"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+             <TextView
+                android:id="@+id/textView222"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/textView321"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Undersøk omgivelser" />
+            
+        </TableRow>
+    </TableLayout>
+            
+            <TextView
+                android:id="@+id/WelcomeFace20"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/san_string_1" />
+            
+            <TextView
+                android:id="@+id/WelcomeFace19"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/san_string_2" />
+            
+            <TextView
+                android:id="@+id/WelcomeFace18"
+                style="@style/nowCardStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/san_string_3" />     
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

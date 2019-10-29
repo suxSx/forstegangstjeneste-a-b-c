@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="grepsfaktorer"><b>Stødige Greps Faktorer</b>
+	\nVenstre arm og hånd (hånden skal gripe om forskjeftet, grepet skal være avslappet)
+	\n\nKolbens plass i skulderen (høyt i skulderen, i skuldermuskelen)
+	\n\nHøyre arm og hånd (hånden høyt på pistolgrepet, press kolben i skulderen)
+	\n\nHodet (mest mulig rett, legg kinnet på kolben)
+	\n\nPusting (hold pusten når du skal ta avtrekk, pust mellom hvert skudd)
+        \n\nAvslapping (slapp av i alle muskler)
+	</string>
+
+	<string name="sikteteknikksekundar"><b>Sikte Teknikk Sekundær Sikte</b>
+\nKornet loddrett
+\n\nToppen av kornet sees midt i diopterhullet
+\n\nToppen av kornet sees på siktepunktet
+\n\nKornringen skal ses parallelt med baksikte
+\n\nVed avtrekk skal øyet fokusere på kornet
+</string>
+
+<string name="aimpointjus"><b>Siktejustering Aimpoint</b>
+\nBruk tomhylse for å skru på siktet i side og høyde
+ETT knepp er ETT klikk på skruen
+\n
+\nHold siktet rent, tørt og beskyttet mot slag
+\n
+\nBeskytt linsene mot direkte bestråling av sollys
+\n
+\nStøv fjernes fra linsene med støvpensel eller pusseklut/ linsepapir
+\n
+\nNB! Det må ikke øves trykk mot optikken ved puss
+\n
+\nLinsene skal aldri rengjøres med bare fingrene eller votter/ hansker etc
+\n
+\nIkke bruk trykkluft
+</string>
+
+<string name="primus_string_1"><b>Generell info</b>
+\nNoe alle skal igjennom iløpet av Førstegangstjenesten er primus fyring. Enten det er for og koke vann eller holde varme i teltet. Når du er ute i felten er det ingen ting som og komme inn igjen i et varmt telt etter en lang dag i snøen f.eks.
+\n
+\n<b>Data</b>
+\nModell - Optimus 111 (2 var.)
+\nTank - 0,5 l (0,4 l)
+\nEffekt - 2000-3000 W
+\nVekt - ca 1,51 kg
+\nTid til å koke 1 l vann 3-4 min
+</string>
+
+<string name="primus_string_2"><b>Oppfyring</b>
+\n1. Fyll tanken 3/4 full, skru igjen lokket
+\n2. Pump noen ganger slik at det blir trykk på tanken
+\n3. Fyll sprit skålen full med rødsprit, tenn på
+\n4. Drei justeringsrattet mot klokka
+\n5. Tenn på gassen
+\n6. Pump mer trykk slik at flammen får en blå farge
+</string>
+
+<string name="primus_string_3"><b>Tips</b>
+\n-skru igjen à ikke mer
+\n-ikke fikle for mye
+\n-finn feil à utbedre
+\n-rens regelmessig
+\n-kun to fingrer på reguleringsrattet
+</string>
+
+<string name="primus_string_4"><b>Vedlikehold</b>
+\n-påse at pumpepakning er smurt
+\n\n-påse at pumpeventil er skrudd til
+\n\n-påse at dysen er skrudd til
+\n\n-hvis det oppstår stikkflammer rundt pakkboksen, må denne trekkes til
+</string>
+
+<string name="primus_string_5"><b>Primusvaktens Plikter</b>
+\n
+\n<i>Antrekk / utrustning / materiell (minimumskrav):</i>
+\nFeltbukse
+\nT-trøye
+\nFeltstøvler på beina
+\nVannflaske tilgjengelig
+\nBajonett/kniv tilgjengelig
+\nFyringsvaktliste
+\n
+\n<i>Fyringsvakta skal sitte ved ovnen (på vannkanne eller lagskasse) og bruke vakten til følgende:</i>
+\nTørke tøy
+\nSmøre mat til neste dag
+\nSpise og drikke
+\nKoke vann til eget forbruk samt fylle termoser / termoflasker for de andre på laget
+\nBarbering
+\nPersonlig hygiene
+\nPusse våpen / pusse støvler
+\nVedlikeholde primus, flaggermuslykt og lignende
+\nLære postinstruks
+\nVekke personell ved alarm
+\nVekke påtroppende vakt minimum 10 minutter før vaktbytte
+\nVære sambandsvakt (hvis det er samband i teltet)
+\nGenerelt gjøre noe for å holde seg våken
+</string>
+
+<string name="malangivelse_1"><b>Klokkemetoden</b>
+\nAngivelse av retning og avstand fra et utgangspunkt. For å angi retningen til målet fra grunnpunkt eller hjelpepunkt kan den såkalte klokkemetode nyttes. Klokken tenkes plassert med urskivens sentrum i grunnpunktet. Den som angir målet, ligger på forlengelsen av linjen utgangspunktet — klokken 6.
+\n
+\nMålet blir angitt med klokkeslett etter hvordan det ligger i forhold til utgangspunktet. Bare hele timetall nyttes. Foran klokken l—5 sies allid høyre og foran klokken 7—11 alltid venstre. Bjørka — høyre klokken 2 Bjørka — venstre kloken 10
+\n
+\nDet heter hitenfor og bortenforf ikke foran og bak, når man refererer til linjen egen stilling — mål. Foran bilen er noe ganske annet enn hitenfor bilen, I høyde nyttes over og under.
+</string>
+
+<string name="malangivelse_2"><b>Retningsmetoden</b>
+\nAvstand fra utgangspunkt til målet skal ikke angis i meter. 
+\n
+\nAngivelse av retning og avstand fra egen stilling Rett frem refererer seg til lagets frontretning. Lendet deles videre inn i halvt høyre, halvt venstre osv.
+\n
+\nFor å angi hvor langt ut fra stillingen man skal feste blikket, nyttes to betegnelser, kort og langt. I praksis betyr dette at man stort sett deler lendet innenfor aktuell skyteavstand i to. 
+\n
+\nEksempler: 
+\n— Rett frem langt
+\n— Halvt høyre kort.
+\n
+\nBåde retningsangivelse og avstand blir omtrentlige, men er hurtige og gir det ønskede resultat.
+</string>
+
+<string name="tomvapen_1"><b>Generell info</b>
+\nEt av de viktigste punktene når du skal ut og øve med våpnet er og vite hvordan man tømmer et våpen. Og vite forskjellen mellom tøm våpen, og tøm våpen kontroller.
+</string>
+
+<string name="tomvapen_2"><b>Tøm Våpen</b>
+\nNår du får kommandoen tøm våpen, vil dette si at du skal gjøre alt på egen hånd. Du skal fjerne magasin, kuler, slå sluttstykket ned og ta et avtrekk.
+\n
+\n1: Ha våpen i sikker retning, og ikke veiv med våpenet.
+\n
+\n1.1: Gå ned på kne og hold våpnet i 45 grader ned mot bakken.
+\n
+\n2: Ta magasinet ut av våpenet
+\n
+\n3: Sjekk at magasin er tomt.
+\n
+\n4: Trekk ladearm/slide tilbake.
+\n
+\n4.1: Fang opp eventuell skarp patron.
+\n
+\n5: Sjekk med lillefinger i kammer at det ikke sitter en hylse der, dette kjenner du lett.
+\n
+\n6: Se inn i hele kammeret etter patron. (hender at den setter seg fast i både pipe, sluttstykke og smuss i kammeret)
+\n
+\n7: Sjekk en gang til at våpenet peker i sikker retning.
+\n
+\n8: Spenn ned.
+\n
+\n9: Ta avtrekk. (Igjen i sikker retning)
+</string>
+
+<string name="tomvapen_3"><b>Tøm Våpen, Kontroller</b>
+\nForskjellen mellom tøm våpen og tøm våpen kontroller er at du skal IKKE! Gjentar IKKE slå ned sluttstykket eller ta et avtrekk. Kommandoen kontroller betyr at du vil bli sjekket av befal eller makker for sener og få kommandoen: spenn ned i sikker retning.
+\n
+\n1: Ha våpen i sikker retning, og ikke veiv med våpenet.
+\n
+\n1.1: Gå ned på kne og hold våpnet i 45 grader ned mot bakken.
+\n
+\n2: Ta magasinet ut av våpenet
+\n
+\n3: Sjekk at magasin er tomt.
+\n
+\n4: Trekk ladearm/slide tilbake.
+\n
+\n4.1: Fang opp eventuell skarp patron.
+\n
+\n5: Sjekk med lillefinger i kammer at det ikke sitter en hylse der, dette kjenner du lett.
+\n
+\n6: Se inn i hele kammeret etter patron. (hender at den setter seg fast i både pipe, sluttstykke og smuss i kammeret)
+\n
+\n7: Sjekk en gang til at våpenet peker i sikker retning.
+\n
+\n8: Reis deg opp pass på at våpenet er i sikker retning. Vent på og bli sjekket av befal og vent på kommandoen spenn ned i sikker retning.
+</string>
+
+<string name="magasinbytte_1"><b>Taktisk Magasinbytte</b>
+\nTaktisk magasinbytte går ut på at du bytter magasin og tar vare på det gamle.Dette skal du gjøre når du har god tid. F.eks før du skal inn i en bygning, skifte stilling eller andre situasjoner du har god tid på deg.
+\n
+\n1. Sikre Våpnet.
+\n
+\n2. Står du oppreist, går du ned i dekkstilling. Ligger du kryper du ned fra stilling og i dekning. 
+\n
+\n3. Ligger du, ruller du rundt på siden hold hode nede grip etter nytt magasin. Er du i dekk stilling holde hode ned og gjør det samme.
+\n
+\n4. Ta og legg nytt magasin på det gamle så det ser ut som en L. 
+\n
+\n5. Løs ut gammelt magasin ved og trykke på utløser knappen med pekefinger. 
+\n
+\n6. Ta ut gammelt magasin og snu L en og sett i nytt. Legg gammelt magasin tilbake i magasin lommen. Du trenger ikke og slå ned sluttstykket her da du alt har en kule i kammeret.
+\n
+\n7. Kryp tilbake/reis deg opp i stilling igjen rett våpnet mot målet.
+\n
+\n8. Nå kan du avsikre når du har målet i sikte og du har til hensikt og skyte.
+</string>
+
+<string name="magasinbytte_2"><b>Kritisk Magasinbytte</b>
+\nDette skal du gjøre når du må bytte magasin og det fort som fy. Og gjelder når du får klikk. Du står/ligger og skyter og får klikk tomt magasin. Det er viktig at du får det gamle ut fort som søren, og du blåser i hvor det havner.
+\n
+\n<i>Når du står</i>
+\n1. Sikre Våpnet.
+\n
+\n2. Gå ned i dekkstilling, på vei ned tar du med høyre hånd og løser ut gammelt magasin samtidig som at du retter pipen på våpnet opp mot himmelen. Dette vil få gammelt magasin til og fly av gårde og ut av veien for deg. Mens dette skjer griper du etter nytt magasin med venstre. Og setter det inn i våpnet. Samtidig som at du fortsatt holder øye på målet, ikke se ned for og se hva venstre hånd eller høyre gjør. Hold alltid blikket rettet mot målet.
+\n
+\n3. Når magasinet er satt i slå under og dra og rist i det for og sjekke at det faktisk sitter fast. 
+\n
+\n4. Ikke trykk på knappen for og slå ned slutt stykket dette vil du bruke unødvenig lang tid på. Ta og slå på den med hele hånd flaten slik at det detter ned igjen og lader våpnet.
+\n
+\n5. Reiser deg opp igjen og få målet i sikte midlet.
+\n
+\n6. Nå kan du avsikre når du har målet i sikte og du har til hensikt og skyte.
+\n
+\n<i>Når du ligger i stilling</i>
+\n1. Sikre Våpnet.
+\n
+\n2. Kryp ned i dekkstilling.
+\n
+\n3. Når du er i dekkstilling tar du og ruller over på siden, hold hode nede. Mens du ruller over på siden løser du ut gammelt magasin ved hjelp av høyre pekefinger. Når du ruller vil du automatisk flikke våpnet og magasinet vil fly ut. Mens dette skjer tar du tak etter nytt ved hjelp av venstre hånd og setter dette inn. 
+\n
+\n4. Når magasinet er satt i slå under og dra og rist i det for og sjekke at det faktisk sitter fast. 
+\n
+\n5. Ikke trykk på knappen for og slå ned slutt stykket dette vil du bruke unødvenig lang tid på. Ta og slå på den med hele hånd flaten slik at det detter ned igjen og lader våpnet.
+\n
+\n6. Rull tilbake igjen og kryp opp igjen i stilling og få målet i sikte midlet.
+\n
+\n7. Nå kan du avsikre når du har målet i sikte og du har til hensikt og skyte.
+</string>	
+
+<string name="fysiskekrav_1"><b>God fysisk form har stor betydning!</b>
+\nFor vanlig førstegangstjeneste stilles det generelt sett ikke fysiske krav*. Alle soldater har likevel – i løpet av førstegangstjenesten – testplikt på øvelsene:
+\n
+\n - 3000 meter løping
+\n - Kroppshevinger (hang-ups)
+\n - Armhevinger (push-ups) 
+\n - Magebøyning (sit-ups)
+\n
+\nTestplikt betyr at du må gjennomføre øvelsene (vanligvis under rekruttskolen og før du dimitterer), men at det ikke er noen minstekrav. 
+\n
+\n<b>* Unntak: </b> Enkelte tjenestetyper har minstekrav til blant annet 3000 meter løping og andre fysiske tester. Du finner mer informasjon om dette i informasjonen om hver enkelt tjenestetype der det er aktuelt. 
+</string>
+
+<string name="fysiskekrav_2"><b>​Fysiske krav til lederutdanning</b>
+    \nSkal du starte på en lederutdanning i Forsvaret (befalsskole eller utskrevet befalskurs), må du gjennomføre opptaksprøver. Opptaksprøvene gjennomføres på Forsvarets opptak og seleksjon (Fos) på Sessvollmoen. 
+    \n
+    \n<i>Til lederutdanning har vi følgende minstekrav: </i>
+    \n - Karakter 2 på 3000 meter (utendørs på flat løype/bane)
+    \n - Gjennomsnittskarakter 2 på fysiske tester​
+    \n - Du må kunne svømme 200 meter ​(uten tidskrav)
+</string>
+
+<string name="fysiskekrav_3"><b>Karakterskala 3000 meter</b></string>
+<string name="fysiskekrav_4"><b>Karakterskala Styrketester</b></string>
+
+<string name="fysiskekrav_5"><b>Forkortelser:</b>
+    \nKar. = Karakter
+    \nH. M = Hang-Ups Menn
+    \nH. K = Hang-Ups Kvinner
+    \nP. M = Push-Ups Menn
+    \nP. K = Push-Ups Kvinner
+    \nS. M/K = Sit-Ups Menn/Kvinner
+</string>
+
+<string name="fysiskekrav_6"><b>Merk!</b>
+\nKroppshevinger er forskjellige for menn og kvinner. Menn har kroppsheving i bom (vertikal); kvinner liggende under bom (horisontal​).
+</string>
+
+<string name="donation_1"><b>Retningslinjer for Donasjon</b>
+    \nVi setter stor pris på at du ønsker og støtte utviklingen av vår applikasjon. Appen er gratis og fri for reklame for og gi deg den beste opplevelsen. Ønsker du og støtte oss har du muligheten til og støtte dette arbeidet. Men vit at det er helt frivillig. Det er ikke noen kjøps plikt, eller behov for og måtte på noen form kjøpe tjenester i appen for og bruke den.
+    \n
+    \nDu vil ikke få noe igjen for og donere, bortsett fra at du gjør en god handling. Og vi setter stor pris på all støtten vi kan få. 
+</string>
+
+    
+</resources>
